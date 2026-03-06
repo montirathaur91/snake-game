@@ -10,8 +10,8 @@ const timeElement= document.querySelector("#time")
 
 
 
-const blockHeight = 50
-const blockWidth = 50
+const blockHeight = 51
+const blockWidth = 51
 
 let highScore = localStorage.getItem("highScore") || 0
 let score = 0
